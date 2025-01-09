@@ -1,9 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeveloper-kms&count_bg=%23C2C6BF&title_bg=%23F38696&icon=github.svg&icon_color=%23000000&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 <h3>Introduce</h3>
-- 안녕하세요. 2년차 주니어 백엔드 개발자 김민수 입니다. <br>
+- 안녕하세요. 3년차 주니어 백엔드 개발자 김민수 입니다. <br>
 - 모두가 함께하고 싶어하며 내일이 기대되는 벡엔드 개발자👩‍💻로 성장하고 싶습니다. <br>
 - 가독성을 높일 수 있는 클린 코드로 작성하기 위해 노력합니다. <br>
+- 리팩토링과 속도 최적화를 놓치지 않기 위해 최선을 다 하고 있습니다. <br>
 - 협업을 통해 혼자가 아닌 함께 성장하는 삶을 추구합니다.
 <!-- ### Junior Server-Backend Developer -->
   <h3>Stacks</h3>
