@@ -1,45 +1,46 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeveloper-kms&count_bg=%23C2C6BF&title_bg=%23F38696&icon=github.svg&icon_color=%23000000&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
-<h3>Introduce</h3>
-- 안녕하세요. 3년차 주니어 백엔드 개발자 김민수 입니다. <br>
-- 모두가 함께하고 싶어하며 내일이 기대되는 벡엔드 개발자👩‍💻로 성장하고 싶습니다. <br>
-- 가독성을 높일 수 있는 클린 코드로 작성하기 위해 노력합니다. <br>
-- 리팩토링과 속도 최적화를 놓치지 않기 위해 최선을 다 하고 있습니다. <br>
-- 협업을 통해 혼자가 아닌 함께 성장하는 삶을 추구합니다.
+<h2>📍 About Me</h2>
+- Python과 FastAPI를 활용한 백엔드 개발을 주로 담당하며, 다양한 언어와 프레임워크를 지속적으로 학습하고 있습니다. <br>
+- 3년차 주니어 백엔드 개발자로서, 사용자의 입장에서 고민하며 가치있는 개발을 추구합니다. <br>
+- 리팩토링, 클린 코드, 속도 최적화 등 다양한 개발 기법을 꾸준히 학습하고 실무에 적용하는 것을 목표로 합니다. <br>
+- 협업에서는 지식 공유와 소통을 중요하게 여기며, 함께 성장하는 개발자가 되고자 합니다. <br>
+- 또한, 문서 작성과 정리를 철저히 하며, 지식과 경험을 체계적으로 관리하는 습관을 가지고 있습니다. <br>
+- 신뢰할 수 있는 동료이자 내일이 기대되는 개발자로 끊임없이 성장하겠습니다. 🚀
+
 <!-- ### Junior Server-Backend Developer -->
-  <h3>Stacks</h3>
-  <h4>- Frontend</h4>
-  <p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-E89313?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT(JQUERY)-0769AD?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
-  </p>
-  <h4>- Backend(^***^)</h4>
+  <h2>🛠️ Tech Stack</h2>
+  <h3>Language</h3>
   <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django(DRF)-56B366?style=flat-square&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-0769AD?style=flat-square&logo=FastAPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   </p>
-  <h4>- Version Control</h4>
+  <h3>Frameworks</h3>
   <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django Rest Framework-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
   </p>
-  <h4>- Communication</h4>
+  <h3>ORM</h3>
   <p>
-  <img src="https://img.shields.io/badge/Figma-8BC0D0?style=flat-square&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ovenapp-FF4F8B?style=flat-square&logo=GitBook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Draw.io-407AFC?style=flat-square&logo=GitBook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ErdCloud-DA1F26?style=flat-square&logo=GitBook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-FDA061?style=flat-square&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django ORM-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=SQLAlchemy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white"/>
   </p>
-  <h4>- OS & Infra</h4>
+  <h3>Databases</h3>
   <p>
-  <img src="https://img.shields.io/badge/Ubuntu-232F3E?style=flat-square&logo=Ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS(S3, Lightsail, IAM)-6D4C9F?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  </p>
+  <h3>Tools</h3>
+  <p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   </p>
   <br>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=developer-kms&theme=buefy&show_icons=true"> -->
