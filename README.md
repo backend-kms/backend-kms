@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeveloper-kms&count_bg=%23C2C6BF&title_bg=%23F38696&icon=github.svg&icon_color=%23000000&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <br>
 <h2>📍 About Me</h2>
 - Python과 FastAPI를 활용한 백엔드 개발을 주로 담당하며, 다양한 언어와 프레임워크를 지속적으로 학습하고 있습니다. <br>
