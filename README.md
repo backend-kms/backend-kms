@@ -1,12 +1,13 @@
 
 <br>
-<h2>📍 About Me</h2>
-- Python과 FastAPI를 활용한 백엔드 개발을 주로 담당하며, 다양한 언어와 프레임워크를 지속적으로 학습하고 있습니다. <br>
-- 3년차 주니어 백엔드 개발자로서, 사용자의 입장에서 고민하며 가치있는 개발을 추구합니다. <br>
-- 리팩토링, 클린 코드, 속도 최적화 등 다양한 개발 기법을 꾸준히 학습하고 실무에 적용하는 것을 목표로 합니다. <br>
-- 협업에서는 지식 공유와 소통을 중요하게 여기며, 함께 성장하는 개발자가 되고자 합니다. <br>
-- 또한, 문서 작성과 정리를 철저히 하며, 지식과 경험을 체계적으로 관리하는 습관을 가지고 있습니다. <br>
-- 신뢰할 수 있는 동료이자 내일이 기대되는 개발자로 끊임없이 성장하겠습니다. 🚀
+<h2>👋🏻 About Me</h2>
+I'm a backend developer with 3 years of experience, mainly working with Django and FastAPI.  
+I enjoy exploring new technologies and continuously improving my skills through real-world projects.
+- I build with a user-first mindset, aiming to create meaningful and practical solutions.  <br>
+- I focus on writing clean, efficient code and applying best practices like refactoring and optimization.  <br>
+- I believe in the value of collaboration, clear communication, and knowledge sharing.  <br>
+- I keep things organized with well-structured documentation and systematic knowledge management. <br> 
+- I'm always growing — as a reliable teammate and a developer who brings positive energy. 🚀  <br>
 
 <!-- ### Junior Server-Backend Developer -->
   <h2>🛠️ Tech Stack</h2>
