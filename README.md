@@ -1,7 +1,7 @@
 
 <br>
 <h2>👋🏻 About Me</h2>
-I'm a backend developer with 3 years of experience, mainly working with Django and FastAPI.  
+I'm a backend developer with 3 years of experience, mainly working with Django and FastAPI. <br>
 I enjoy exploring new technologies and continuously improving my skills through real-world projects.
 - I build with a user-first mindset, aiming to create meaningful and practical solutions.  <br>
 - I focus on writing clean, efficient code and applying best practices like refactoring and optimization.  <br>
