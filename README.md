@@ -1,17 +1,18 @@
 
 <br>
-<h2>👋🏻 About Me</h2>
-I'm a backend developer with 3 years of experience, mainly working with Django and FastAPI. <br>
-I constantly improve my skills by working on production-level projects and staying up-to-date with new technologies. <br>
+<h3>🌱 About Me</h3>
+I’m a backend developer with 3 years of experience, building production-optimized backend systems using Django and FastAPI. <br>
+I strive to write clean, efficient code, and I continuously grow through refactoring, performance optimization, and learning modern technologies. <br>
 <br>
-I build with a user-first mindset, aiming to create meaningful and practical solutions.  <br>
-I focus on writing clean, efficient code and applying best practices like refactoring and optimization.  <br>
-I believe in the value of collaboration, clear communication, and knowledge sharing.  <br>
-I keep things organized with well-structured documentation and systematic knowledge management. <br> 
-I'm always growing — as a reliable teammate and a developer who brings positive energy. 🚀  <br>
-
+With a user-centered mindset, I focus on designing and developing practical and meaningful solutions.  <br>
+I value collaboration, clear communication, and knowledge sharing, aiming to foster a culture of mutual growth.  <br>
+<br>
+I also put consistent effort into well-organized documentation and systematic knowledge management to improve development efficiency and maintainability. <br> 
+<br>
+Always growing — as a trusted teammate and a developer who brings positive energy 👩🏻‍💻  <br>
+<br>
 <!-- ### Junior Server-Backend Developer -->
-  <h2>🛠️ Tech Stack</h2>
+  <h3>🪛 Tech Stack</h3>
   <h4>Language</h4>
   <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
