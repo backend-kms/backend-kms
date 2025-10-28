@@ -46,6 +46,8 @@ Always growing — as a trusted teammate and a developer who brings positive ene
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GA4-87CEEB?style=flat-square&logo=GoogleAnalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GTM-2F4F4F?style=flat-square&logo=GoogleTagManager&logoColor=white"/>
   </p>
   <br>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=developer-kms&theme=buefy&show_icons=true"> -->
