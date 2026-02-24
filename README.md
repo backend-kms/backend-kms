@@ -1,15 +1,15 @@
 
 <br>
 <h3>🌱 About Me</h3>
-I’m a backend developer with 3 years of experience, building production-optimized backend systems using Django and FastAPI. <br>
-I strive to write clean, efficient code, and I continuously grow through refactoring, performance optimization, and learning modern technologies. <br>
+Backend Developer with 4 years of experience building production-level systems using Django and FastAPI. <br>
+I focus on designing clean, maintainable, and scalable backend architectures, with interest in API development, authentication workflows, and system performance optimization. <br>
 <br>
-With a user-centered mindset, I focus on designing and developing practical and meaningful solutions.  <br>
-I value collaboration, clear communication, and knowledge sharing, aiming to foster a culture of mutual growth.  <br>
+I have experience integrating external services and building system interoperability with third-party APIs.  <br>
+I enjoy solving real-world engineering problems through practical implementation, refactoring, and reliable system design.  <br>
 <br>
-I also put consistent effort into well-organized documentation and systematic knowledge management to improve development efficiency and maintainability. <br> 
+I value clear documentation, knowledge sharing, and collaborative development. <br> 
 <br>
-Always growing — as a trusted teammate and a developer who brings positive energy 👩🏻‍💻  <br>
+Continuing to grow as a dependable backend engineer who delivers stable and meaningful solutions. 👩🏻‍💻  <br>
 <br>
 <!-- ### Junior Server-Backend Developer -->
   <h3>🪛 Tech Stack</h3>
