@@ -3,6 +3,8 @@
 <h3>🌱 About Me</h3>
 Backend Developer with 4 years of experience building production-level systems using Django and FastAPI. <br>
 <br>
+M.S. in Artificial Intelligence.<br>
+<br>
 I focus on designing clean, maintainable, and scalable backend architectures, with interest in API development, authentication workflows, and system performance optimization. <br>
 <br>
 I have experience integrating external services and building system interoperability with third-party APIs.  <br>
