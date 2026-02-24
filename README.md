@@ -2,6 +2,7 @@
 <br>
 <h3>🌱 About Me</h3>
 Backend Developer with 4 years of experience building production-level systems using Django and FastAPI. <br>
+<br>
 I focus on designing clean, maintainable, and scalable backend architectures, with interest in API development, authentication workflows, and system performance optimization. <br>
 <br>
 I have experience integrating external services and building system interoperability with third-party APIs.  <br>
@@ -48,6 +49,8 @@ Continuing to grow as a dependable backend engineer who delivers stable and mean
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/GA4-87CEEB?style=flat-square&logo=GoogleAnalytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/GTM-2F4F4F?style=flat-square&logo=GoogleTagManager&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white">
   </p>
   <br>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=developer-kms&theme=buefy&show_icons=true"> -->
