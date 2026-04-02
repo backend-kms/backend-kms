@@ -24,7 +24,6 @@ Continuing to grow as a dependable backend engineer who delivers stable and mean
   </p>
   <h4>Frameworks</h4>
   <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django Rest Framework-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
