@@ -5,14 +5,15 @@ Backend Developer with 4 years of experience building production-level systems u
 <br>
 M.S. in Artificial Intelligence.<br>
 <br>
-I focus on designing clean, maintainable, and scalable backend architectures, with interest in API development, authentication workflows, and system performance optimization. <br>
+I focus on designing clean, maintainable, and scalable backend architectures, with a strong interest in API development, authentication workflows, and system performance optimization. <br>
 <br>
-I have experience integrating external services and building system interoperability with third-party APIs.  <br>
-I enjoy solving real-world engineering problems through practical implementation, refactoring, and reliable system design.  <br>
+I have experience integrating external services and building interoperability between systems using third-party APIs. <br>
+I enjoy solving real-world engineering problems through practical implementation, refactoring, and reliable system design. <br>
 <br>
-I value clear documentation, knowledge sharing, and collaborative development. <br> 
+I believe no code is ever perfect, and I strive to improve code quality through testing and code reviews. <br>
+I value clear documentation, knowledge sharing, and collaborative development. <br>
 <br>
-Continuing to grow as a dependable backend engineer who delivers stable and meaningful solutions. 👩🏻‍💻  <br>
+I am continuously growing as a dependable backend engineer who delivers stable and meaningful solutions. 🙂👩🏻‍💻 <br>
 <br>
 <!-- ### Junior Server-Backend Developer -->
   <h3>🪛 Tech Stack</h3>
