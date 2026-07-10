@@ -75,6 +75,26 @@ move faster without sacrificing stability.
   <img src="https://img.shields.io/badge/ODMantic-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
+<h4>API / Realtime / Cache</h4>
+<p>
+  <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+</p>
+
+<h4>Infrastructure &amp; Server</h4>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Route%2053-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELB-8C4FFF?style=flat-square&logo=awselasticloadbalancing&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lightsail-232F3E?style=flat-square&logo=amazonlightsail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/uWSGI-2F2F2F?style=flat-square&logo=uwsgi&logoColor=white"/>
+</p>
+
 <h4>Workflow &amp; Tools</h4>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
