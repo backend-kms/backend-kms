@@ -75,7 +75,7 @@ move faster without sacrificing stability.
   <img src="https://img.shields.io/badge/ODMantic-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
-<h4>API / Realtime / Cache</h4>
+<h4>API &amp; Realtime &amp; Cache</h4>
 <p>
   <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
